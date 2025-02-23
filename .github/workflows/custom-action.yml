@@ -1,6 +1,6 @@
-on: [push]
+#on: [push]
 
-jobs:
+#jobs:
   my-job:
     runs-on: ubuntu-latest
     name: A job to say hello
